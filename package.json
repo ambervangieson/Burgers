@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "name": "eat-the-burger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avangieson",
+  "license": "ISC",
+  "description": "Devour burgers!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambervangieson/Burgers.git"
+  },
+  "keywords": [
+    "burgers"
+  ],
+  "bugs": {
+    "url": "https://github.com/ambervangieson/Burgers/issues"
+  },
+  "homepage": "https://github.com/ambervangieson/Burgers#readme"
+}
